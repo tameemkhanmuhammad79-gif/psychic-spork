@@ -1,0 +1,5 @@
+# Repo files that must not be uploaded to the live site
+.git
+.gitignore
+.assetsignore
+wrangler.toml
